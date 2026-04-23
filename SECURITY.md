@@ -30,7 +30,7 @@ Reports that do not include **both** a working one-click PoC **and** concrete fi
 
 ## How to Report
 
-Please report vulnerabilities **privately** using GitHub's [Private Vulnerability Reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-security-advisories) feature (enabled on this repository).
+Please report vulnerabilities **privately** using GitHub's Private Vulnerability Reporting feature.
 
 **Do not** open public issues or pull requests for security vulnerabilities.
 
